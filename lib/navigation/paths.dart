@@ -1,0 +1,11 @@
+const String home = '/home';
+const String login = '/login';
+const String sign_up = '/sign-up';
+const String new_user = '/new-user';
+const String external_sign_on = '/external-sign-on';
+const String profile = '/profile';
+const String myProjects = '/myProjects';
+const String messages = '/messages';
+const String browseProjects = '/browse-projects';
+const String supervisionOverview = '/supervisionOverview';
+const String projectsForApproval = '/projectsForApproval';

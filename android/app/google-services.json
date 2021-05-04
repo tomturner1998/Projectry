@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "654856624134",
+    "firebase_url": "https://project-finder-d1074.firebaseio.com",
+    "project_id": "project-finder-d1074",
+    "storage_bucket": "project-finder-d1074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654856624134:android:1810e74d90b93d7ddecb87",
+        "android_client_info": {
+          "package_name": "tech.thomasturner.projectfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654856624134-nn4m94aidj0d0d7lkhq8n8n2f9aea6uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmToWVKsD04S2dLvzs-K3KjNuUANiFyMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654856624134-nn4m94aidj0d0d7lkhq8n8n2f9aea6uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
